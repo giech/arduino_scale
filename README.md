@@ -4,4 +4,5 @@ This repository contains the Arduino [sketch](arduino_scale.ino) and the support
 
 The code depends on the [HX711 library](https://github.com/bogde/HX711), and on my [modification](https://github.com/giech/LedControl) of the LedControl library, which allows an easier way to display characters on the display, though hopefully my [pull request](https://github.com/wayoda/LedControl/pull/13) will be approved to integrate it into the original one.
 
- 
+For a full explanation of how the code and the circuit works, please visit my [blog post](https://ilias.giechaskiel.com/posts/arduino_scale/index.html).
+
